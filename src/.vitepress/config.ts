@@ -4,9 +4,9 @@ export default defineConfig({
     base: '/Notes/',
     title: "Armito's Blog",
     description: 'A VitePress Site',
-    head: [['link', { rel: 'icon', href: '/assets/imgs/title.ico' }]],
+    head: [['link', { rel: 'icon', href: '/imgs/title.ico' }]],
     themeConfig: {
-        logo: '/assets/imgs/star.png',
+        logo: '/imgs/star.png',
 
         nav: [
             { text: 'Home', link: '/' },
