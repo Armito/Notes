@@ -4,7 +4,7 @@ layout: home
 hero:
     name: "Armito's Blog"
     text: 'A Study Note'
-    tagline: Keep Thirty
+    tagline: Keep Thirsty
     actions:
         - theme: brand
           text: 开始阅读
