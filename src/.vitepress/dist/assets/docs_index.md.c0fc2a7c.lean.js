@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as s}from"./chunks/framework.38bb5bc6.js";const p=JSON.parse('{"title":"Leave something to the world...","description":"","frontmatter":{},"headers":[],"relativePath":"docs/index.md"}'),l={name:"docs/index.md"},i=s("",6),o=[i];function c(r,d,m,n,_,u){return t(),a("div",null,o)}const f=e(l,[["render",c]]);export{p as __pageData,f as default};
