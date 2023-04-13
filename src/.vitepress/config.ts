@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
+    base: '/Notes/',
     title: "Armito's Blog",
     description: 'A VitePress Site',
     themeConfig: {
