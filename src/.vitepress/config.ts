@@ -31,7 +31,7 @@ export default defineConfig({
                             },
                         ],
                     },
-                    { text: '库', items: [] },
+                    { text: '库', link: '/docs/libarary/' },
                     {
                         text: '工程化',
                         items: [
@@ -54,6 +54,14 @@ export default defineConfig({
                         { text: 'api模版', link: '/docs/frame/vitepress/api-examples' },
                         { text: 'md模版', link: '/docs/frame/vitepress/markdown-examples' },
                     ],
+                },
+            ],
+
+            '/docs/libarary': [
+                {
+                    text: 'Libarary',
+                    link: '/docs/libarary/',
+                    items: [{ text: 'Tapable', link: '/docs/libarary/tapable/' }],
                 },
             ],
 
