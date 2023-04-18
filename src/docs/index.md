@@ -5,7 +5,7 @@
 ::: details 语言
 
 -   HTML
--   CSS
+-   <a href="/docs/language/css/">CSS</a>
 -   Javascrip
 
 :::

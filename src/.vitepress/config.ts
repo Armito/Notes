@@ -46,13 +46,24 @@ export default defineConfig({
         ],
 
         sidebar: {
+            '/docs/language/css': [
+                {
+                    text: 'CSS',
+                    link: '/docs/language/css/',
+                    items: [
+                        { text: 'BFC', link: '/docs/language/css/block-format-context/' },
+                        { text: '层叠上下文', link: '/docs/language/css/cascading-context/' },
+                    ],
+                },
+            ],
+
             '/docs/frame/vitepress': [
                 {
                     text: 'Vitepress',
                     link: '/docs/frame/vitepress/',
                     items: [
-                        { text: 'api模版', link: '/docs/frame/vitepress/api-examples' },
-                        { text: 'md模版', link: '/docs/frame/vitepress/markdown-examples' },
+                        { text: 'api模版', link: '/docs/frame/vitepress/api-examples/' },
+                        { text: 'md模版', link: '/docs/frame/vitepress/markdown-examples/' },
                     ],
                 },
             ],
@@ -77,6 +88,6 @@ export default defineConfig({
             ],
         },
 
-        socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
+        socialLinks: [{ icon: 'github', link: 'https://github.com/Armito/Notes' }],
     },
 });

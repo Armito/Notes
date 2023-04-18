@@ -1,4 +1,4 @@
-# tapable
+# Tapable
 
 -   一个类 EventEmit 库
 -   它能够按照一定规则去触发订阅的事件
