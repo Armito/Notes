@@ -4,16 +4,17 @@
 
 ::: details 语言
 
--   [HTML](/docs/language/html/)
+<!-- -   [HTML](/docs/language/html/) -->
+
 -   [CSS](/docs/language/css/)
--   [Javascrip](/docs/language/javascript/)
+<!-- -   [Javascrip](/docs/language/javascript/) -->
 
 :::
 
 ::: details 框架
 
--   [Vue](/docs/frame/vue/)
--   [React](/docs/frame/react/)
+<!-- -   [Vue](/docs/frame/vue/) -->
+<!-- -   [React](/docs/frame/react/) -->
 
 :::
 
@@ -26,6 +27,6 @@
 ::: details 工程化
 
 -   [Webpack](/docs/engineering/webpack/)
--   [Vite](/docs/engineering/vite/)
+<!-- -   [Vite](/docs/engineering/vite/) -->
 
 :::
