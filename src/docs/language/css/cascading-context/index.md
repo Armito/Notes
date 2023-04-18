@@ -2,7 +2,9 @@
 
 ## 层叠规则
 
+::: details
 ![An image](./imgs/cascading-rule.png)
+:::
 
 ## 开启层叠上下文
 

@@ -9,7 +9,7 @@ export default defineConfig({
         logo: '/imgs/star.png',
 
         nav: [
-            { text: 'Home', link: '/' },
+            { text: 'Home', link: '/docs/' },
             {
                 text: 'Docs',
                 items: [
@@ -31,7 +31,10 @@ export default defineConfig({
                             },
                         ],
                     },
-                    { text: '库', link: '/docs/libarary/' },
+                    {
+                        text: '库',
+                        link: '/docs/libarary/',
+                    },
                     {
                         text: '工程化',
                         items: [
