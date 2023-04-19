@@ -75,7 +75,10 @@ export default defineConfig({
                 {
                     text: 'Libarary',
                     link: '/docs/libarary/',
-                    items: [{ text: 'Tapable', link: '/docs/libarary/tapable/' }],
+                    items: [
+                        { text: 'Tapable', link: '/docs/libarary/tapable/' },
+                        { text: 'Memfs', link: '/docs/libarary/memfs/' },
+                    ],
                 },
             ],
 
@@ -86,6 +89,8 @@ export default defineConfig({
                     items: [
                         { text: 'loader', link: '/docs/engineering/webpack/loader/' },
                         { text: 'plugin', link: '/docs/engineering/webpack/plugin/' },
+                        { text: '构建速度', link: '/docs/engineering/webpack/speed-up/' },
+                        { text: '打包体积', link: '/docs/engineering/webpack/minimize/' },
                     ],
                 },
             ],
